@@ -46,7 +46,7 @@
     
 ### My Holopin Badges
 
-[![@meghav000's Holopin board]( https://www.holopin.io/@meghav000)]( https://www.holopin.io/@meghav000)
+[![@meghav000's Holopin board]( https://www.holopin.io/@meghav000)](https://www.holopin.io/@meghav000)
    
 
 
