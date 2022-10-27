@@ -1,5 +1,5 @@
-# hi
-<img src="./github-banner.gif">
+
+<!--img src="./github-banner.gif"-->
 
 <p align="center">
 <img src="./rainbow-superthin.gif">
