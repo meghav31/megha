@@ -17,7 +17,7 @@
 - 💻 I’m currently learning **web devlopment** 
 <br>
 <p align="center">
-<img src="./rainbow-superthin.gif">
+<!--img src="./rainbow-superthin.gif"-->
 <p>
 
 <!--
