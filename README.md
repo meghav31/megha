@@ -1,6 +1,16 @@
 
 <!--img src="./github-banner.gif"-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
+<h3 >I'm Megha Vishwakarma A Student at SPPU</h3>
+ 
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" 
+   width="39%" height="35%">
 
+- 👩  Pronouns: She/Her
+
+- 😄 I’m a Self-learner, coding enthusiastic, passionate to learn new things 
+
+- 💻 I’m currently learning **web devlopment** 
 <p align="center">
 <img src="./rainbow-superthin.gif">
 <p>
