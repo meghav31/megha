@@ -45,9 +45,7 @@
 <p>
     
 ### My Holopin Badges
-
-[![@meghav000's Holopin board](https://www.holopin.io/@meghav000)]
-   
+[![@meghav000's Holopin board](https://holopin.me/meghav000)](https://holopin.io/@meghav000)
 
 
 <h3>:large_blue_diamond: Reach Me</h3>
@@ -62,7 +60,3 @@
 
 
 
-<!---
-sumit-kumar-soni/sumit-kumar-soni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
