@@ -43,6 +43,12 @@
 <p align="center">
 <img src="./rainbow-superthin.gif">
 <p>
+    
+### My Holopin Badges
+
+[![@meghav000's Holopin board]( https://www.holopin.io/@meghav000)]( https://www.holopin.io/@meghav000)
+   
+
 
 <h3>:large_blue_diamond: Reach Me</h3>
 <p align="center">
